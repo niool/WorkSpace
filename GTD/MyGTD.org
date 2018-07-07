@@ -1,61 +1,100 @@
 # -*- coding: utf-8; -*-
 #+LAST_MOBILE_CHANGE: 2018-06-16 20:53:12
 
+#+STARTUP: hidestars
+#+STARTUP: logdone
+#+PROPERTY: Effort_ALL  0:10 0:20 0:30 1:00 2:00 4:00 6:00 8:00
+#+COLUMNS: %38ITEM(Details) %TAGS(Context) %7TODO(To Do) %5Effort(Time){:} %6CLOCKSUM{Total}
+#+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
+
+* Special Dates
+#+CATEGORY: Calendar 
+** Birthdays
+** Anniversaries
+*** TODO APPT Pay Mortgage                                                      :COMPUTER:
+    DEADLINE: <2018-07-03 Tue> SCHEDULED: <2018-08-15 Wed +1m>
+    - State "DONE"       from "TODO"       [2018-07-04 Wed 21:39]
+    - State "DONE"       from "NEXT"       [2018-07-04 Wed 21:38]
+    :PROPERTIES:
+    :LAST_REPEAT: [2018-07-04 Wed 21:39]
+    :END:
+** TODO Test task for refill    :REFILE:
+    Created:[2018-07-03 Tue]
+** Holidays
+** TODO Make a good thing to working
+     Created:[2018-06-30 Sat]
+** NEXT 入职海拉                                                                :OFFICE:PROJECT:
+   SCHEDULED: <2018-07-09 Mon>
+   - State "NEXT"       from "WAITING"    [2018-07-02 Mon 22:50]
+   - State "WAITING"    from "TODO"       [2018-06-29 Fri 08:52]
 * Tasks
-#+CATEGORY: Tasks
-** TODO Write article about GTD and orgmode                         :COMPUTER:
-   DEADLINE: <2018-06-17 Sun>
+:PROPERTIES:
+:CATEGORY: Tasks
+:END:
+** DONE Write article about GTD and orgmode                                     :COMPUTER:
+   CLOSED: [2018-06-30 Sat 05:18] DEADLINE: <2018-06-17 Sun>
    :PROPERTIES:
    :ID:       ea41b797-12f6-4260-b619-78d3d5d84e4d
    :END:
    Added: [2009-01-09 Fri 07:42]
+** TODO Making a new test!                                                      :PROJECT:READING:
+     Created:[2018-06-30 Sat]
+** NEXT Read English Paragraph
+SCHEDULED: <2018-07-04 Wed .+1d/3d>
+:PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: NEXT
+:END:
 * Calendar
-  #+CATEGORY: Calendar
-** TODO Review Weekly                                                :HOME:
-   SCHEDULED: <2009-01-16 Fri +1w> 
-   :PROPERTIES:
-   :ID:       33692ad3-36c6-4d3c-9423-3af3dafe48b9
-   :END:      
-** PC Backup to DVD                                                 :COMPUTER:
-   SCHEDULED: <2009-01-31 Sat +1m>
-   :PROPERTIES:
-   :ID:       9f4039c7-ca96-4054-b739-4e529d53b22f
-   :END:
-   SCHEDULED: <2009-01-17 Sat +1m>
-   #+AUTHOR: Jiang Hua
+:PROPERTIES:
+:CATEGORY: Calendar
+:END:
+* Project Example
+** TODO Review Weekly                                                           :HOME:
+    SCHEDULED: <2009-01-16 Fri +1w> 
+    :PROPERTIES:
+    :ID:       33692ad3-36c6-4d3c-9423-3af3dafe48b9
+    :END:      
+** DONE PC Backup to DVD Repeat                                                :COMPUTER
+   CLOSED: [2018-07-04 Wed 21:39] SCHEDULED: <2018-07-02 Mon>
 * Projects
-#+CATEGORY: Projects
+:PROPERTIES:
+:CATEGORY: Projects
+:END:
 ** Complete GTD and org-mode implementation                          :PROJECT:
    :PROPERTIES:
    :ID:       feff810f-a41d-466b-acd6-9d553973f4d7
    :END:
 *** Document my GTD Backup script and write article                 :COMPUTER:
-*** TODO Tidy up my GTD web site .. directory on display                        :COMPUTER:
+*** DONE Tidy up my GTD web site .. directory on display                        :COMPUTER:
+    CLOSED: [2018-06-30 Sat 21:23]
     :PROPERTIES:
     :ID:       08f5f628-a3b5-4e3a-9f3f-a0d74d47c0f0
     :END:
 *** Explore org-mode for Project planning                                  :COMPUTER:
     Use drawings to describe the five phases of workflow
 *** Reread Ready for Anything (RFA) in 2009                          :READING:
-*** Org-mode
+*** HOLD Org-mode                                                               :CANCELLED:
+    - State "HOLD"       from ""           [2018-07-03 Tue 01:29]
 **** Study orgmode clockin/out and effort                             :OFFICE:
 **** Update tutorial on Remember mode                               :COMPUTER:
 **** Finalise article on org-mode and SMART Goals                   :COMPUTER:
 **** Publish article about my CD-catalog script                     :COMPUTER:
 * Financial
-#+CATEGORY: Financial
-** APPT Pay Credit Cards                                            :COMPUTER:
-   SCHEDULED: <2018-06-08 Fri +1m>
+:PROPERTIES:
+:CATEGORY: Financial
+:END:
+** TODO APPT Pay Credit Cards                                                   :@home:PERSONAL:
+   SCHEDULED: <2018-07-08 Sun +1m>
+   - State "DONE"       from "NEXT"       [2018-07-04 Wed 21:38]
    :PROPERTIES:
    :ID:       d8103fd5-e34e-4e6d-ab40-5d321e70556e
+   :LAST_REPEAT: [2018-07-04 Wed 21:38]
    :END:
-** APPT Pay Mortgage                                                :COMPUTER:
-   SCHEDULED: <2018-06-15 Fri +1m>
-   :PROPERTIES:
-   :ID:       ef72ae1a-e94a-4e4c-8b37-b597eb02f026
-   :END: 
 * Borrowed
-#+CATEGORY: Borrowed
+:PROPERTIES:
+:CATEGORY: Borrowed
+:END:
 ** Stanton Library
 *** DONE Read Parrots of Australia                                              :READING:
     CLOSED: [2018-06-29 Fri 05:54] DEADLINE: <2009-01-30 Fri>
@@ -70,6 +109,9 @@
     :ID:       9f1a58fe-80fb-4911-95f7-0f03ef09edb9
     :END:
 * Capture Tasks
+:PROPERTIES:
+:CATEGORY: Projects 
+:END:
 ** STARTED Config My Emacs for daily work
    :PROPERTIES:
    :ID:       59760a4f-ba8b-4a15-b382-b0ef437ead7e
@@ -88,12 +130,9 @@
 *** Start to create a content of my focus 
 
 
-* Local Configuration
-#+STARTUP: hidestars
-#+STARTUP: logdone
-#+PROPERTY: Effort_ALL  0:10 0:20 0:30 1:00 2:00 4:00 6:00 8:00
-#+COLUMNS: %38ITEM(Details) %TAGS(Context) %7TODO(To Do) %5Effort(Time){:} %6CLOCKSUM{Total}
-#+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
-#+TAGS: { OFFICE(o) HOME(h) } COMPUTER(c) PROJECT(p) READING(r) 
-#+TAGS: DVD(d) LUNCHTIME(l)
-#+SEQ_TODO: TODO(t) STARTED(s) WAITING(w) APPT(a) | DONE(d) CANCELLED(c) DEFERRED(f)
+* Task
+** TODO Some miscellaneous task
+
+
+   [[./TestImages.png]]
+* ResponseTo  

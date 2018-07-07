@@ -1,0 +1,63 @@
+#+TITLE Organize Your Life into Org Files
+
+* Philosophy of GTD(Get Thing Done)
+** Author: David Allen
+* Category and Tags of Your Life
+* Steps
+ - Open Emacs with agenda mode
+ - Check today's tasks, try to finish them quickly
+ - If finished, go to Project Next area
+ - Weekly Review
+ - Arrangement of my tasks
+  - C-c c capture task / ideas
+  - C-c C-w refill task to right subtree
+  - C-c C-t change task state
+  - C-c C-s schedule task
+  - Archiving tasks
+ - Agenda view
+    Single block agenda shows the following
+        overview of today
+        Finding tasks to be refiled
+        Finding stuck projects
+        Finding NEXT tasks to work on
+        Show all related tasks
+        Reviewing projects
+        Finding tasks waiting on something
+        Findings tasks to be archived
+    Finding notes
+    Viewing habits
+
+* My working day
+ My day goes generally like this:
+ - Punch in (this starts the clock on the default task)
+ - Look at the agenda and make a mental note of anything important to deal with today
+ - Read email and news
+   - create notes, and tasks for things that need responses with org-capture
+ - Check refile tasks and respond to emails
+ - Look at my agenda and work on important tasks for today
+   - Clock it in
+   - Work on it until it is DONE or it gets interrupted
+ - Work on tasks
+ - Make journal entries (C-c c j) for interruptions
+ - Punch out for lunch and punch back in after lunch
+ - work on more tasks
+ - Refile tasks to empty the list
+   - Tag tasks to be refiled with m collecting all tasks for the same target
+   - Bulk refile the tasks to the target location with B r
+   - Repeat (or refile individually with C-c C-w) until all refile tasks are gone
+ - Mark habits done today as DONE
+ - Punch out at the end of the work day
+
+
+* How to organize under Emacs Org-Mode
+** Tasks are separated into logical groupings or projects.
+** Use separate org files for large groupings and subdirectories for collections of files for multiple projects that belong together.
+| Filename  | Description                                |
+|-----------+--------------------------------------------|
+| MyGTD.org | Personal tasks and things to keep track of |
+|-----------+--------------------------------------------|
+| inbox.org | Capture tasks not categoried               |
+|           | #+FILETAGS: REFILE                         |
+|           | Add REFILE for all tasks                   |
+|-----------+--------------------------------------------|
+|           |                                            |

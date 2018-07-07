@@ -1,7 +1,9 @@
-* [2018-06-17 Sun 18:25] - good
- Making a result, and define it. 
-* [2018-06-17 Sun 22:35] - IFTTT If This Then That
- 一个非常伟大的观念，链接孤立的信息和设备。 
-* [2018-06-17 Sun 23:55] - Another very good idea project: huginn
+* 2018 Year
+** 06 Month
+*** [2018-06-17 Sun 22:35] - IFTTT If This Then That
+*** [2018-06-17 Sun 23:55] - Another very good idea project: huginn
   https://github.com/huginn/huginn
   Like IFTTT
+ 脪禄赂枚路脟鲁拢脦掳麓贸碌脛鹿脹脛卯拢卢脕麓陆脫鹿脗脕垄碌脛脨脜脧垄潞脥脡猫卤赂隆拢 
+** 07 Month
+*** [2018-07-02 Mon 23:15] - This is a test for jounal

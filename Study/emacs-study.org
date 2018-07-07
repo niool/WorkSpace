@@ -1,8 +1,10 @@
+#+STARTUP: hidestars
+
 * emacs.d Configuration
   My emacs.d is got from https://github.com/redguardtoo/emacs.d.
   It has a readme to learn how to use it.
 
-* Start to use it, my version is Magit
+* GIT(Magit)
   NOTE: Must setenv HOME explicitly, seems otherwise Commit/Push not working.
 ** Git Windows
    - Download git windows, use default config.
@@ -15,7 +17,6 @@
        git clean -f   only files
        git clean -fd  directory + files
       
-
 ** Config SSH Links
    - SSH Key normally stored at ~/.ssh
    - If not, create a new one
@@ -26,9 +27,42 @@
      ssh -T git@github.com
 * GTD
   http://www.360doc.com/content/11/1107/18/7735641_162571835.shtml
+* Plugins
+** Ido, Interactively Do Things
+  Ido is partg of Emacs, staring with release 22.
+  -
+* Journals
+** [2018-06-30 Sat 04:46] - Setup My Emacs Environment
+*** Create two git project in github.com
+|-----------------------+---------------------------------------------+------------------------------------|
+| Name                  | Description                                 | Link                               |
+|-----------------------+---------------------------------------------+------------------------------------|
+| WorkSpace Repo        | My workspace to store all org               | https://github.com/niool/WorkSpace |
+|                       | and files work with Emacs                   |                                    |
+|-----------------------+---------------------------------------------+------------------------------------|
+| Emacs.d configuration | My emacs configuration based on redguardtoo | https://github.com/niool/emacs.d   |
+|-----------------------+---------------------------------------------+------------------------------------|
+*** Target to optimize GTD and use it.
+** [Sat Jun 30 21:29:51 CDT 2018] - Setup My Emacs Environment
+   
 * Tips
-**  C-x n n  | Narrow to region, ignore all other contents in the buffer, after modified, go back C-x n w | Widen the region
-**  , = increase font size / , - decrease font size
-**  C-c C-e publish org files
-
-
+** Narraw and widen region to help editing 
+** Variable auto-mode-alist define default mode of *.xxx files 
+** NOTES: org-capture mode replaced remember mode
+** NOTES: org-publish function changes to org-html-publish-to-html
+* Good Shortcuts
+|--------------+-----------------------------------------------------------|
+| Keybinding   | Function                                                  |
+|--------------+-----------------------------------------------------------|
+| C-x n n      | Narrow to region, ignore all other contents in the buffer |
+| C-x n w      | Widen the region                                          |
+|--------------+-----------------------------------------------------------|
+| C-u M-! date | Insert current date / time at cursor                      |
+|--------------+-----------------------------------------------------------|
+| , =          | Increase window/frame font size                           |
+| , -          | Decrease window/frame font size                           |
+|--------------+-----------------------------------------------------------|
+| C-c C-       | Publish org files                                         |
+|--------------+-----------------------------------------------------------|
+| , r r        | Recent open files list                                    |
+|--------------+-----------------------------------------------------------|

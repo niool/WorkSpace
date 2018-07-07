@@ -1,0 +1,27 @@
+
+* 目的
+- 面向12岁以下的儿童 
+- 信息素养＋计算思维(从Scratch编程到STEM教育)
+- 逻辑思考、问题解决、后设认知、创造力
+- Scratch融入学科教学(外语、数学)
+ 
+* 参考资料
+** 麻省理工大学的Scratch计划
+   - https://scratch.mit.edu/
+*** 基本情况
+   - 已经有接近3700万个分享项目
+   - 全球超过150个国家或地区在使用Scratch,提供了40多种语言版本
+   - 国内在2011－2012年起开始研究、教学
+     - 研究流派(儿童数字文化创作、儿童趣味编程－>趣味创造、基于工程 艺术和研究的技术学习)  
+** 树上科技的一些想法
+** 美国CSTA（Computer Science Teachers Association）计算机科学标准
+** STEM Education
+   - Science Technology Engineering Mathematics
+   - 科学－技术－工程－数学
+** S4A Scratch for Arduino
+   - 研究如何利用Scratch连接外部传感器
+   - 硬件包括Arduino, Scratch Sensor Board, LaunchPad, Kinect and LEGO WeDo
+
+
+
+#+STARTUP: hidestars
