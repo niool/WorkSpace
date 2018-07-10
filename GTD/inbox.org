@@ -3,6 +3,7 @@
 
 #+STARTUP: hidestars
 #+STARTUP: logdone
-
-* TODO Investigate Scratch in internet and make summary
-     Created:[2018-07-04 Wed]
+* TODO Understand Basic ELISP Programming
+  :LOGBOOK:  
+  :END:      
+    Created:[2018-07-09 Mon]

@@ -1,0 +1,68 @@
+Here Records my Very Important Project(VIP).
+
+* TODO Sprint NFLS                                                              :@home:
+NFLS, Nanjing Foreign Language School 
+** TODO Target-oriented: Investigate rules of examination
+** NEXT Target-oriented: Make clear all Pei Excellent Class Name
+** TODO 斐尔学而思数学备课(Help to learn Math)
+   :LOGBOOK:  
+   :END:      
+     Created:[2018-07-07 Sat]
+** DONE 给斐尔交车上课
+   CLOSED: [2018-07-09 Mon 15:00] SCHEDULED: <2018-07-09 Mon 13:20>
+   :LOGBOOK:  
+   CLOCK: [2018-07-09 Mon 08:49]--[2018-07-09 Mon 08:50] =>  0:01
+   :END:      
+     Created:[2018-07-09 Mon]
+** DONE 搭建自己的家庭微信平台
+   CLOSED: [2018-07-09 Mon 19:22]
+   :LOGBOOK:  
+   CLOCK: [2018-07-09 Mon 17:02]--[2018-07-09 Mon 18:08] =>  1:06
+   CLOCK: [2018-07-09 Mon 16:46]--[2018-07-09 Mon 17:02] =>  0:16
+   CLOCK: [2018-07-09 Mon 15:02]--[2018-07-09 Mon 16:42] =>  1:40
+   CLOCK: [2018-07-09 Mon 14:59]--[2018-07-09 Mon 15:00] =>  0:01
+   :END:      
+     Created:[2018-07-16 Mon]
+** NEXT Learn to record math under Emacs
+   :LOGBOOK:  
+   CLOCK: [2018-07-08 Sun 20:18]--[2018-07-08 Sun 21:43] => 2:00
+   :END:      
+     Created:[2018-07-08 Sun]
+** 微信平台的搭建记录 <2018-07-09 Mon>                                          :NOTE:
+   :LOGBOOK:  
+   CLOCK: [2018-07-09 Mon 16:42]--[2018-07-09 Mon 16:46] =>  0:04
+   :END:      
+   简单了解了一下企业微信号的使用，发现有一些简化的功能非常适合跟踪和我们目前的生活状态。
+   － 通过在线考试功能，可以非常方便的组织斐尔的错题，并且电子化，按照合适的情况出题改进斐尔的知识盲区。
+   － 建立一个简单的看板功能，维护重点关注的一些事情，通过主动查询获取任务信息。
+   － Wiki可以把跟冲刺南外相关的主题信息串起来。
+   － 公司号的文件库功能可以存储跟斐尔学习相关的资料。
+* TODO New Energy Vehicles                                                      :@office:
+** TODO Reserve Space as a Stuck Project 
+* TODO Programming Under 12                                                     :@home:
+** TODO Reserve Space as a Stuck Project 
+** NEXT Investigate Scratch in internet and make summary
+      Created:[2018-07-04 Wed]
+* TODO Innovation@China                                                         :@home:
+  :LOGBOOK:  
+  :END:      
+** TODO Mark:Learning how to find chance and value in intelligent transportation
+** NEXT 调查一下PNP据说是世界第一的创投公司
+   :LOGBOOK:  
+   CLOCK: [2018-07-07 Sat 22:23]--[2018-07-07 Sat 22:24] =>  0:01
+   CLOCK: [2018-07-07 Sat 22:09]--[2018-07-07 Sat 22:22] =>  0:13
+   :END:      
+     Created:[2018-07-07 Sat]
+** NEXT 调查南京江宁滨江的规划
+   :LOGBOOK:  
+   CLOCK: [2018-07-07 Sat 22:24]--[2018-07-07 Sat 22:32] =>  0:08
+   CLOCK: [2018-07-07 Sat 22:22]--[2018-07-07 Sat 22:23] =>  0:01
+   :END:      
+     Created:[2018-07-07 Sat]
+* TODO MacOS@Home
+** DONE Investiagte Mac OS 10.6.8 saftware
+   CLOSED: [2018-07-08 Sun 19:34] SCHEDULED: <2018-07-08 Sun>
+   :LOGBOOK:  
+   CLOCK: [2018-07-08 Sun 19:23]--[2018-07-08 Sun 19:33] =>  0:10
+   :END:      
+     Created:[2018-07-08 Sun]

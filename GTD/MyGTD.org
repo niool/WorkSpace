@@ -18,13 +18,13 @@
     :PROPERTIES:
     :LAST_REPEAT: [2018-07-04 Wed 21:39]
     :END:
-** TODO Test task for refill    :REFILE:
+** TODO Test task for refill
     Created:[2018-07-03 Tue]
 ** Holidays
 ** TODO Make a good thing to working
      Created:[2018-06-30 Sat]
-** NEXT 入职海拉                                                                :OFFICE:PROJECT:
-   SCHEDULED: <2018-07-09 Mon>
+** TODO 入职海拉                                                                :OFFICE:PROJECT:
+   SCHEDULED: <2018-07-16 Mon>
    - State "NEXT"       from "WAITING"    [2018-07-02 Mon 22:50]
    - State "WAITING"    from "TODO"       [2018-06-29 Fri 08:52]
 * Tasks
@@ -39,12 +39,6 @@
    Added: [2009-01-09 Fri 07:42]
 ** TODO Making a new test!                                                      :PROJECT:READING:
      Created:[2018-06-30 Sat]
-** NEXT Read English Paragraph
-SCHEDULED: <2018-07-04 Wed .+1d/3d>
-:PROPERTIES:
-:STYLE: habit
-:REPEAT_TO_STATE: NEXT
-:END:
 * Calendar
 :PROPERTIES:
 :CATEGORY: Calendar
@@ -55,8 +49,6 @@ SCHEDULED: <2018-07-04 Wed .+1d/3d>
     :PROPERTIES:
     :ID:       33692ad3-36c6-4d3c-9423-3af3dafe48b9
     :END:      
-** DONE PC Backup to DVD Repeat                                                :COMPUTER
-   CLOSED: [2018-07-04 Wed 21:39] SCHEDULED: <2018-07-02 Mon>
 * Projects
 :PROPERTIES:
 :CATEGORY: Projects
@@ -129,10 +121,18 @@ SCHEDULED: <2018-07-04 Wed .+1d/3d>
 *** Investigate courses and ideas through website, wechat, etc.
 *** Start to create a content of my focus 
 
-
 * Task
 ** TODO Some miscellaneous task
-
-
    [[./TestImages.png]]
+* Habit
+:PROPERTIES:
+:CATEGORY: Habit 
+:END:
+** NEXT Habit: Read English Several Days
+[2018-07-07 Sat 00:04]
+SCHEDULED: <2018-07-07 Sat .+1d/3d>
+:PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: NEXT
+:END:
 * ResponseTo  

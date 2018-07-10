@@ -25,8 +25,22 @@
    - Config your SSH public key in github
    - Check whether config is succefully
      ssh -T git@github.com
+* Exploring Dates 
+A simple date is specified in a special enclosed in angle or square brackets, for example <2018-07-01> or [2018-07-01]
+** Date Notation
+ - Angle bracket notation is for Active dates which will appear in agendas and timelines
+ - Square bracket notation is for Inactive dates for recording when things happened and will not appear in agendas and timelines
+ - C-c . command for an Active date
+ - C-c ! command for an Inactive date
+ - 10 produces 10th October 2007. A single number is interpreted as the day of the default month. <2018-07-10 Tue>
+ - Tue produces 23rd October, Interpreted as the date nearest the supplied day. <2018-07-09 Mon>
+
+ 
 * GTD
+** GTD Introduction
   http://www.360doc.com/content/11/1107/18/7735641_162571835.shtml
+** Full of information related to GTD
+  http://members.optusnet.com.au/~charles57/GTD/org_dates/
 * Plugins
 ** Ido, Interactively Do Things
   Ido is partg of Emacs, staring with release 22.

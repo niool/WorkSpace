@@ -1,23 +1,64 @@
+#+FILEFLAGS: PERSONAL
+
+* Tasks
+** Organization
+   :LOGBOOK:  
+   CLOCK: [2018-07-09 Mon 08:50]--[2018-07-09 Mon 08:51] =>  0:01
+   CLOCK: [2018-07-09 Mon 08:48]--[2018-07-09 Mon 08:49] =>  0:01
+   CLOCK: [2018-07-08 Sun 19:34]--[2018-07-08 Sun 20:18] =>  0:44
+   CLOCK: [2018-07-08 Sun 19:18]--[2018-07-08 Sun 19:22] =>  0:04
+   CLOCK: [2018-07-07 Sat 21:59]--[2018-07-07 Sat 22:09] =>  0:10
+   CLOCK: [2018-07-07 Sat 21:57]--[2018-07-07 Sat 21:59] =>  0:02
+   CLOCK: [2018-07-07 Sat 11:28]--[2018-07-07 Sat 21:29] => 10:01
+   CLOCK: [2018-07-07 Sat 11:23]--[2018-07-07 Sat 11:28] =>  0:05
+   :END:      
+   :PROPERTIES:
+   :CLOCK_MODELINE_TOTAL: today
+   :ID:       eb155a82-92b2-4f25-a3c6-0304591af2f9
+   :END:
+   ...
+** WAITING Rest Time                                                            :WAITING:
+   :LOGBOOK:  
+   CLOCK: [2018-07-09 Mon 09:40]--[2018-07-09 Mon 10:01] =>  0:21
+   :END:      
+     Created:[2018-07-09 Mon]
+
 * TODO 南京营业部
-** NEXT 跟踪CISP报表的填报工作                                                  :WORK:SECURITY:
-   SCHEDULED: <2018-07-04 Thu>
-** TODO 创建孙总的柜员帐号，起流程                                              :WORK:SECURITY:
-   DEADLINE: <2018-07-06 Fri> SCHEDULED: <2018-07-04 Fri>
-** NEXT CISP 报表填写完成
-    SCHEDULED: <2018-07-06 Fri>
+  :LOGBOOK:  
+  CLOCK: [2018-07-09 Mon 15:00]--[2018-07-09 Mon 15:02] =>  0:02
+  CLOCK: [2018-07-09 Mon 10:15]--[2018-07-09 Mon 14:59] =>  4:44
+  CLOCK: [2018-07-09 Mon 10:08]--[2018-07-09 Mon 10:15] =>  0:07
+  CLOCK: [2018-07-09 Mon 10:01]--[2018-07-09 Mon 10:08] =>  0:07
+  CLOCK: [2018-07-09 Mon 09:36]--[2018-07-09 Mon 09:40] =>  0:04
+  CLOCK: [2018-07-09 Mon 09:26]--[2018-07-09 Mon 09:36] =>  0:10
+  :END:      
+** DONE 创建孙总的柜员帐号，起流程                                              :WORK:SECURITY:
+   CLOSED: [2018-07-06 Fri 23:57] DEADLINE: <2018-07-06 Fri> SCHEDULED: <2018-07-04 Fri>
+** DONE CISP 报表填写完成
+   CLOSED: [2018-07-06 Fri 23:58] SCHEDULED: <2018-07-06 Fri>
      Created:[2018-07-05 Thu]
-** TODO 跟踪CISP报表的填报工作                                                  :WORK:
-    SCHEDULED: <2018-07-04 Wed>
+** DONE 跟踪CISP报表的填报工作                                                  :WORK:
+   CLOSED: [2018-07-07 Sat 21:55] SCHEDULED: <2018-07-04 Wed>
+    :LOGBOOK:  
+    CLOCK: [2018-07-06 Fri 17:08]--[2018-07-06 Fri 17:10] =>  0:02
+    :END:      
       Created:[2018-07-04 Wed]
-** WAITING Make a test for                                                      :WAITING:
-   - State "WAITING"    from "TODO"       [2018-07-06 Fri 08:09] \\
-     Make a mark here!
-     Created:[2018-07-06 Fri]
-** TODO Another test
-     Created:[2018-07-06 Fri]
-** DONE Next State checking
-   CLOSED: [2018-07-06 Fri 07:30] SCHEDULED: <2018-07-06 Fri>
-     Created:[2018-07-05 Thu]
-** DONE Task NEXT
-   CLOSED: [2018-07-06 Fri 07:32]
-     Created:[2018-07-06 Fri]
+** NEXT 完成2018年中后台中期考核表
+   :LOGBOOK:  
+   CLOCK: [2018-07-09 Mon 09:21]--[2018-07-09 Mon 09:26] =>  0:05
+   CLOCK: [2018-07-09 Mon 08:51]--[2018-07-09 Mon 09:21] =>  0:30
+   :END:      
+     Created:[2018-07-09 Mon]
+** NEXT 整理营业部手册，定义两到三天的任务
+   :LOGBOOK:  
+   :END:      
+     Created:[2018-07-09 Mon]
+** TODO 跟踪彤天客户收益所有人信息的完成情况
+   :LOGBOOK:  
+   :END:      
+     Created:[2018-07-09 Mon]
+** TODO 跟踪高业受益所有人信息的完成情况
+   SCHEDULED: <2018-07-16 Mon>
+   :LOGBOOK:  
+   :END:      
+     Created:[2018-07-09 Mon]
