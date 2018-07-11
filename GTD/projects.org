@@ -8,15 +8,10 @@ NFLS, Nanjing Foreign Language School
    :LOGBOOK:  
    :END:      
      Created:[2018-07-07 Sat]
-** DONE 给斐尔交车上课
-   CLOSED: [2018-07-09 Mon 15:00] SCHEDULED: <2018-07-09 Mon 13:20>
-   :LOGBOOK:  
-   CLOCK: [2018-07-09 Mon 08:49]--[2018-07-09 Mon 08:50] =>  0:01
-   :END:      
-     Created:[2018-07-09 Mon]
 ** DONE 搭建自己的家庭微信平台
    CLOSED: [2018-07-09 Mon 19:22]
    :LOGBOOK:  
+   CLOCK: [2018-07-10 Tue 17:04]--[2018-07-10 Tue 17:07] =>  0:03
    CLOCK: [2018-07-09 Mon 17:02]--[2018-07-09 Mon 18:08] =>  1:06
    CLOCK: [2018-07-09 Mon 16:46]--[2018-07-09 Mon 17:02] =>  0:16
    CLOCK: [2018-07-09 Mon 15:02]--[2018-07-09 Mon 16:42] =>  1:40
@@ -38,23 +33,57 @@ NFLS, Nanjing Foreign Language School
    － Wiki可以把跟冲刺南外相关的主题信息串起来。
    － 公司号的文件库功能可以存储跟斐尔学习相关的资料。
 * TODO New Energy Vehicles                                                      :@office:
-** TODO Reserve Space as a Stuck Project 
+** WAITING Innovation chance between 3 parties(government,PNP, local agency)    :WAITING:
+   - State "WAITING"    from "TODO"       [2018-07-10 Tue 19:58] \\
+     Need input from Jingjun.
+   :LOGBOOK:  
+   CLOCK: [2018-07-10 Tue 19:58]--[2018-07-10 Tue 19:59] =>  0:01
+   :END:      
+     Created:[2018-07-10 Tue]
 * TODO Programming Under 12                                                     :@home:
 ** TODO Reserve Space as a Stuck Project 
 ** NEXT Investigate Scratch in internet and make summary
       Created:[2018-07-04 Wed]
+** NEXT Workout a plan for programming trainning
+   :PROPERTIES:
+   :ID:       8255b49e-9bb9-42e2-a584-9c131aad36d2
+   :END:
+   :LOGBOOK:  
+   CLOCK: [2018-06-19 Tue 13:30]--[2018-06-19 Tue 13:32] =>  0:02
+   :END:      
+   Created:[2018-06-19 Tue]
+  Target: Make teenager smarter
+*** Investigate courses and ideas through website, wechat, etc.
+*** Start to create a content of my focus 
+
+** TODO 定义儿童程序思维需要培养的知识体系，包括编程实例的范围 
+   DEADLINE: <2018-07-27 Fri>
+   :LOGBOOK:  
+   :END:      
+     Created:[2018-07-11 Wed]
+** TODO 整理一份介绍基本想法的PPT, 寻找相关人士讨论，搜集反馈 
+   DEADLINE: <2018-08-31 Fri>
+   :LOGBOOK:  
+   CLOCK: [2018-07-11 Wed 19:48]--[2018-07-11 Wed 19:49] =>  0:01
+   :END:      
+     Created:[2018-07-11 Wed]
 * TODO Innovation@China                                                         :@home:
   :LOGBOOK:  
   :END:      
 ** TODO Mark:Learning how to find chance and value in intelligent transportation
-** NEXT 调查一下PNP据说是世界第一的创投公司
+** DONE 调查一下PNP据说是世界第一的创投公司
+   CLOSED: [2018-07-10 Tue 19:23]
    :LOGBOOK:  
    CLOCK: [2018-07-07 Sat 22:23]--[2018-07-07 Sat 22:24] =>  0:01
    CLOCK: [2018-07-07 Sat 22:09]--[2018-07-07 Sat 22:22] =>  0:13
    :END:      
      Created:[2018-07-07 Sat]
-** NEXT 调查南京江宁滨江的规划
+** DONE 调查南京江宁滨江的规划
+   CLOSED: [2018-07-10 Tue 19:57]
    :LOGBOOK:  
+   CLOCK: [2018-07-10 Tue 19:54]--[2018-07-10 Tue 19:57] =>  0:03
+   CLOCK: [2018-07-10 Tue 19:48]--[2018-07-10 Tue 19:53] =>  0:05
+   CLOCK: [2018-07-10 Tue 19:32]--[2018-07-10 Tue 19:37] =>  0:05
    CLOCK: [2018-07-07 Sat 22:24]--[2018-07-07 Sat 22:32] =>  0:08
    CLOCK: [2018-07-07 Sat 22:22]--[2018-07-07 Sat 22:23] =>  0:01
    :END:      

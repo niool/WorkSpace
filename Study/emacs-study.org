@@ -35,6 +35,9 @@ A simple date is specified in a special enclosed in angle or square brackets, fo
  - 10 produces 10th October 2007. A single number is interpreted as the day of the default month. <2018-07-10 Tue>
  - Tue produces 23rd October, Interpreted as the date nearest the supplied day. <2018-07-09 Mon>
 
+
+* Org Mode for Emacs Discussion Chain, Recommend to Read carefully
+  https://news.ycombinator.com/item?id=11386590
  
 * GTD
 ** GTD Introduction

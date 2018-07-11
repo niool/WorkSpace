@@ -7,26 +7,6 @@
 #+COLUMNS: %38ITEM(Details) %TAGS(Context) %7TODO(To Do) %5Effort(Time){:} %6CLOCKSUM{Total}
 #+PROPERTY: Effort_ALL 0 0:10 0:20 0:30 1:00 2:00 3:00 4:00 8:00
 
-* Special Dates
-#+CATEGORY: Calendar 
-** Birthdays
-** Anniversaries
-*** TODO APPT Pay Mortgage                                                      :COMPUTER:
-    DEADLINE: <2018-07-03 Tue> SCHEDULED: <2018-08-15 Wed +1m>
-    - State "DONE"       from "TODO"       [2018-07-04 Wed 21:39]
-    - State "DONE"       from "NEXT"       [2018-07-04 Wed 21:38]
-    :PROPERTIES:
-    :LAST_REPEAT: [2018-07-04 Wed 21:39]
-    :END:
-** TODO Test task for refill
-    Created:[2018-07-03 Tue]
-** Holidays
-** TODO Make a good thing to working
-     Created:[2018-06-30 Sat]
-** TODO 入职海拉                                                                :OFFICE:PROJECT:
-   SCHEDULED: <2018-07-16 Mon>
-   - State "NEXT"       from "WAITING"    [2018-07-02 Mon 22:50]
-   - State "WAITING"    from "TODO"       [2018-06-29 Fri 08:52]
 * Tasks
 :PROPERTIES:
 :CATEGORY: Tasks
@@ -37,22 +17,6 @@
    :ID:       ea41b797-12f6-4260-b619-78d3d5d84e4d
    :END:
    Added: [2009-01-09 Fri 07:42]
-** TODO Making a new test!                                                      :PROJECT:READING:
-     Created:[2018-06-30 Sat]
-* Calendar
-:PROPERTIES:
-:CATEGORY: Calendar
-:END:
-* Project Example
-** TODO Review Weekly                                                           :HOME:
-    SCHEDULED: <2009-01-16 Fri +1w> 
-    :PROPERTIES:
-    :ID:       33692ad3-36c6-4d3c-9423-3af3dafe48b9
-    :END:      
-* Projects
-:PROPERTIES:
-:CATEGORY: Projects
-:END:
 ** Complete GTD and org-mode implementation                          :PROJECT:
    :PROPERTIES:
    :ID:       feff810f-a41d-466b-acd6-9d553973f4d7
@@ -72,6 +36,19 @@
 **** Update tutorial on Remember mode                               :COMPUTER:
 **** Finalise article on org-mode and SMART Goals                   :COMPUTER:
 **** Publish article about my CD-catalog script                     :COMPUTER:
+** TODO 入职海拉                                                                :OFFICE:PROJECT:
+   SCHEDULED: <2018-07-16 Mon>
+   - State "NEXT"       from "WAITING"    [2018-07-02 Mon 22:50]
+   - State "WAITING"    from "TODO"       [2018-06-29 Fri 08:52]
+** TODO Review Weekly                                                           :HOME:
+    SCHEDULED: <2009-01-16 Fri +1w> 
+    :PROPERTIES:
+    :ID:       33692ad3-36c6-4d3c-9423-3af3dafe48b9
+    :END:      
+* Projects
+:PROPERTIES:
+:CATEGORY: Projects
+:END:
 * Financial
 :PROPERTIES:
 :CATEGORY: Financial
@@ -83,6 +60,13 @@
    :ID:       d8103fd5-e34e-4e6d-ab40-5d321e70556e
    :LAST_REPEAT: [2018-07-04 Wed 21:38]
    :END:
+** TODO APPT Pay Mortgage                                                      :COMPUTER:
+    SCHEDULED: <2018-08-15 Wed +1m>
+    - State "DONE"       from "TODO"       [2018-07-04 Wed 21:39]
+    - State "DONE"       from "NEXT"       [2018-07-04 Wed 21:38]
+    :PROPERTIES:
+    :LAST_REPEAT: [2018-07-04 Wed 21:39]
+    :END:
 * Borrowed
 :PROPERTIES:
 :CATEGORY: Borrowed
@@ -100,30 +84,6 @@
     :Effort:   2:00
     :ID:       9f1a58fe-80fb-4911-95f7-0f03ef09edb9
     :END:
-* Capture Tasks
-:PROPERTIES:
-:CATEGORY: Projects 
-:END:
-** STARTED Config My Emacs for daily work
-   :PROPERTIES:
-   :ID:       59760a4f-ba8b-4a15-b382-b0ef437ead7e
-   :END:
-   Created:[2018-06-17 Sun]
-** STARTED Workout a plan for programming trainning
-   :PROPERTIES:
-   :ID:       8255b49e-9bb9-42e2-a584-9c131aad36d2
-   :END:
-   :LOGBOOK:  
-   CLOCK: [2018-06-19 Tue 13:30]--[2018-06-19 Tue 13:32] =>  0:02
-   :END:      
-   Created:[2018-06-19 Tue]
-  Target: Make teenager smarter
-*** Investigate courses and ideas through website, wechat, etc.
-*** Start to create a content of my focus 
-
-* Task
-** TODO Some miscellaneous task
-   [[./TestImages.png]]
 * Habit
 :PROPERTIES:
 :CATEGORY: Habit 
@@ -135,4 +95,13 @@ SCHEDULED: <2018-07-07 Sat .+1d/3d>
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :END:
+* Fast
+** DONE 给斐尔交车上课
+   CLOSED: [2018-07-09 Mon 15:00] SCHEDULED: <2018-07-09 Mon 13:20>
+   - Note taken on [2018-07-10 Tue 19:30] \\
+     Quickly learn how to use Didi
+   :LOGBOOK:  
+   CLOCK: [2018-07-09 Mon 08:49]--[2018-07-09 Mon 08:50] =>  0:01
+   :END:      
+     Created:[2018-07-09 Mon]
 * ResponseTo  

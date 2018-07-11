@@ -1,1 +1,16 @@
 * Table Practice
+* Latex
+- C-c C-x C-l org-preview-latex-fragment
+- C-c C-c to remove preview
+** Org Entities like latin letters
+Angles are written as Greek letters \alpha \beta and \gamma.
+** 
+\begin{equation}
+x=\sqrt{b}
+\end{equation}
+
+$a_{1}$  $x^{2}$
+$e^{x^2} \neq {e^x}^2$
+
+$\underbrace{a+b+\cdots+z}_{26}$
+
