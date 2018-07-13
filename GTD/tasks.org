@@ -3,6 +3,8 @@
 * Tasks
 ** Organization
    :LOGBOOK:  
+   CLOCK: [2018-07-13 Fri 13:27]
+   CLOCK: [2018-07-12 Thu 10:58]--[2018-07-12 Thu 13:36] =>  2:38
    CLOCK: [2018-07-09 Mon 08:50]--[2018-07-09 Mon 08:51] =>  0:01
    CLOCK: [2018-07-09 Mon 08:48]--[2018-07-09 Mon 08:49] =>  0:01
    CLOCK: [2018-07-08 Sun 19:34]--[2018-07-08 Sun 20:18] =>  0:44
@@ -25,6 +27,7 @@
 
 * TODO 南京营业部
   :LOGBOOK:  
+  CLOCK: [2018-07-13 Fri 13:26]--[2018-07-13 Fri 13:27] =>  0:01
   CLOCK: [2018-07-11 Wed 12:39]--[2018-07-11 Wed 13:08] =>  0:29
   CLOCK: [2018-07-09 Mon 15:00]--[2018-07-09 Mon 15:02] =>  0:02
   CLOCK: [2018-07-09 Mon 10:15]--[2018-07-09 Mon 14:59] =>  4:44
@@ -44,7 +47,10 @@
     CLOCK: [2018-07-06 Fri 17:08]--[2018-07-06 Fri 17:10] =>  0:02
     :END:      
       Created:[2018-07-04 Wed]
-** NEXT 完成2018年中后台中期考核表
+** DONE 完成2018年中后台中期考核表
+   CLOSED: [2018-07-12 Thu 10:26]
+   - Note taken on [2018-07-12 Thu 10:26] \\
+     已经完成，根据公司要求使用权重。
    :LOGBOOK:  
    CLOCK: [2018-07-09 Mon 09:21]--[2018-07-09 Mon 09:26] =>  0:05
    CLOCK: [2018-07-09 Mon 08:51]--[2018-07-09 Mon 09:21] =>  0:30
@@ -54,6 +60,12 @@
    [] 记录合规风控岗的职责和日常工作流程
    [] 准备交接清单和报表
   :LOGBOOK:  
+  CLOCK: [2018-07-12 Thu 14:29]--[2018-07-13 Fri 09:27] => 18:58
+  CLOCK: [2018-07-12 Thu 13:58]--[2018-07-12 Thu 14:10] =>  0:12
+  CLOCK: [2018-07-12 Thu 13:36]--[2018-07-12 Thu 13:58] =>  0:22
+  CLOCK: [2018-07-12 Thu 10:54]--[2018-07-12 Thu 10:58] =>  0:04
+  CLOCK: [2018-07-12 Thu 10:31]--[2018-07-12 Thu 10:34] =>  0:03
+  CLOCK: [2018-07-12 Thu 10:28]--[2018-07-12 Thu 10:31] =>  0:03
   CLOCK: [2018-07-11 Wed 13:23]--[2018-07-11 Wed 17:03] =>  3:40
   CLOCK: [2018-07-11 Wed 13:22]--[2018-07-11 Wed 13:23] =>  0:01
    CLOCK: [2018-07-11 Wed 13:08]--[2018-07-11 Wed 13:22] =>  0:14
@@ -68,17 +80,34 @@
    :LOGBOOK:  
    :END:      
      Created:[2018-07-09 Mon]
-** TODO 整理营业部IT系统的密码和目录结构
+** NEXT 整理营业部IT系统的密码和目录结构
+   SCHEDULED: <2018-07-13 Fri>
+   :LOGBOOK:  
+   CLOCK: [2018-07-13 Fri 09:29]--[2018-07-13 Fri 13:26] =>  3:57
+   :END:      
+     Created:[2018-07-11 Wed]
+** TODO [#B] 营业部合规承诺书签署
    SCHEDULED: <2018-07-13 Fri>
    :LOGBOOK:  
    :END:      
      Created:[2018-07-11 Wed]
-** TODO 营业部合规承诺书签署
-   SCHEDULED: <2018-07-13 Fri>
+** DONE 营业部中期考核工作
+   CLOSED: [2018-07-12 Thu 13:36]
    :LOGBOOK:  
    :END:      
      Created:[2018-07-11 Wed]
-** TODO 营业部中期考核工作
+** WAITING 营业部权限申请梳理                                                   :WAITING:
+   - State "WAITING"    from "NEXT"       [2018-07-12 Thu 14:28] \\
+     Assigned to Ms. Zhang Jing
+   :LOGBOOK:  
+   CLOCK: [2018-07-12 Thu 14:10]--[2018-07-12 Thu 14:29] =>  0:19
+   :END:      
+     Created:[2018-07-12 Thu]
+** DONE 申请两融考试资格信用业务不黄倩
+   CLOSED: [2018-07-12 Thu 15:04]
+   - State "DONE"       from "WAITING"    [2018-07-12 Thu 15:04]
+   - State "WAITING"    from "TODO"       [2018-07-12 Thu 14:28] \\
+     Waiting Result from Huang Qian
    :LOGBOOK:  
    :END:      
-     Created:[2018-07-11 Wed]
+     Created:[2018-07-12 Thu]

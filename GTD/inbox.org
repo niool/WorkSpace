@@ -3,7 +3,7 @@
 
 #+STARTUP: hidestars
 #+STARTUP: logdone
-* TODO Understand Basic ELISP Programming
+* TODO Study How to Use Simple Spreadsheet in Org Mode
   :LOGBOOK:  
   :END:      
-    Created:[2018-07-09 Mon]
+    Created:[2018-07-12 Thu]

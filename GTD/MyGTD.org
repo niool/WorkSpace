@@ -45,6 +45,15 @@
     :PROPERTIES:
     :ID:       33692ad3-36c6-4d3c-9423-3af3dafe48b9
     :END:      
+** DONE 微信群聊中的文件和内容如何保存
+   CLOSED: [2018-07-12 Thu 10:56]
+   - Note taken on [2018-07-12 Thu 10:52] \\
+     了解发现，只有有道云笔记可以方便的支持大部分应用的分享和存储情况，建议加大该应用的使用情况。
+   :LOGBOOK:  
+   CLOCK: [2018-07-12 Thu 10:34]--[2018-07-12 Thu 10:53] =>  0:19
+   :END:      
+     Created:[2018-07-12 Thu]
+
 * Projects
 :PROPERTIES:
 :CATEGORY: Projects
