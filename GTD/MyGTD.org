@@ -36,8 +36,8 @@
 **** Update tutorial on Remember mode                               :COMPUTER:
 **** Finalise article on org-mode and SMART Goals                   :COMPUTER:
 **** Publish article about my CD-catalog script                     :COMPUTER:
-** TODO 入职海拉                                                                :OFFICE:PROJECT:
-   SCHEDULED: <2018-07-16 Mon>
+** DONE 入职海拉                                                                :OFFICE:PROJECT:
+   CLOSED: [2018-07-18 Wed 13:05] SCHEDULED: <2018-07-16 Mon>
    - State "NEXT"       from "WAITING"    [2018-07-02 Mon 22:50]
    - State "WAITING"    from "TODO"       [2018-06-29 Fri 08:52]
 ** TODO Review Weekly                                                           :HOME:

@@ -1,0 +1,53 @@
+* Abbreviation
+** Organization / Segement / Department etc.
+-  TC: Technical Center
+-  QD: Quality Developement
+
+* SW MileStone
+** ENG.4 Software Requirement Analysis
+** ENG.5 System Design
+** 
+
+* BMS Information
+** BMS Battery Management System
+|--------------+-----------------------------|
+| Abbrev       | Description                 |
+|--------------+-----------------------------|
+| BMU          | Battery Management Unit     |
+| CSE          | Cell SUpervising Entity     |
+| CSM          | Current Sensor Module       |
+| onboard IMoC | Isolation Monitoring Device |
+| HVCS         |                             |
+| HVIL         | High Voltage Inter-lock     |
+|              |                             |
+|--------------+-----------------------------|
+
+
+* BMS Team Member
+| Name           | Phone | Highlights                        |
+|----------------+-------+-----------------------------------|
+| Ge Ying        |       | 2 years, test                     |
+|                |       |                                   |
+| Peng GuangQing |       | BMS                               |
+|                |       | IBS Support, BAIC                 |
+|                |       |                                   |
+| Ye HengJie     |       | Continental                       |
+|                |       | System, good sense                |
+| Yi Qiang       |       | Early avaliable of duty           |
+|                |       | responsibility                    |
+| Xing Shuo      |       | Acquisition of Test Board         |
+| Liu Zongkai    |       |                                   |
+| Xie Guang      |       | Beijing Yangzi River Automotive   |
+|                |       | Modeling and algrithm of SOC, SOH |
+| Peng Yu        |       | Also know of SOC and SOH algrithm |
+| Mei Jie        |       | Automotive Engineering            |
+|                |       |                                   |
+|----------------+-------+-----------------------------------|
+
+* BMS Puzzle
+** StakeHolder
+| Name       | Functions                     |
+| Yi Qiang   | Project Manager               |
+| Xie ZhenAn | D&D Head, resouces management |
+| Ye HengJie | Sys Primer                    |
+|            |                               |

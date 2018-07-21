@@ -42,7 +42,8 @@ NFLS, Nanjing Foreign Language School
    :END:      
      Created:[2018-07-10 Tue]
 * TODO Programming Under 12                                                     :@home:
-** TODO Reserve Space as a Stuck Project 
+** DONE Reserve Space as a Stuck Project
+   CLOSED: [2018-07-19 Thu 12:13]
 ** DONE Investigate Scratch in internet and make summary
    CLOSED: [2018-07-12 Thu 13:36]
       Created:[2018-07-04 Wed]
@@ -101,3 +102,256 @@ NFLS, Nanjing Foreign Language School
    :LOGBOOK:  
    :END:      
      Created:[2018-07-09 Mon]
+* TODO Hella@Organization                                                       :@office:WORK:
+  :LOGBOOK:  
+  CLOCK: [2018-07-20 Fri 10:26]--[2018-07-20 Fri 10:31] =>  0:05
+  CLOCK: [2018-07-20 Fri 10:06]--[2018-07-20 Fri 10:26] =>  0:20
+  CLOCK: [2018-07-19 Thu 12:16]--[2018-07-19 Thu 12:19] =>  0:03
+  CLOCK: [2018-07-19 Thu 12:14]--[2018-07-19 Thu 12:16] =>  0:02
+  CLOCK: [2018-07-19 Thu 09:23]--[2018-07-19 Thu 09:51] =>  0:28
+  CLOCK: [2018-07-19 Thu 09:20]--[2018-07-19 Thu 09:22] =>  0:02
+  CLOCK: [2018-07-19 Thu 09:16]--[2018-07-19 Thu 09:18] =>  0:02
+  CLOCK: [2018-07-19 Thu 09:15]--[2018-07-19 Thu 09:16] =>  0:01
+  :END:      
+** DONE New Registration in Hella
+   CLOSED: [2018-07-19 Thu 12:15]
+   :LOGBOOK:  
+   :END:      
+     Created:[2018-07-18 Wed]
+** DONE with BMS Team                                                           :MEETING:
+  SCHEDULED: <2018-07-18 Wed 13:06 - 14:00>
+  :LOGBOOK:  
+  :END:      
+[2018-07-18 Wed 13:06]
+** DONE Ramp up Daily Software Tools
+   CLOSED: [2018-07-19 Thu 09:14]
+   :LOGBOOK:  
+   CLOCK: [2018-07-18 Wed 13:56]--[2018-07-18 Wed 15:00] =>  1:04
+   CLOCK: [2018-07-18 Wed 13:49]--[2018-07-18 Wed 13:54] =>  0:05
+   CLOCK: [2018-07-18 Wed 13:08]--[2018-07-18 Wed 13:09] =>  0:01
+   :END:      
+     Created:[2018-07-18 Wed]
+** DONE Reading Employee Handbook
+   CLOSED: [2018-07-19 Thu 12:16]
+   :LOGBOOK:  
+   :END:      
+     Created:[2018-07-18 Wed]
+** TODO Get familiar to the whole SW and SYS team member
+   :LOGBOOK:  
+   :END:      
+     Created:[2018-07-18 Wed]
+** TODO Finish My Telant Campass Compliance Training
+   DEADLINE: <2018-09-10 Mon>
+   :LOGBOOK:  
+   CLOCK: [2018-07-19 Thu 10:05]--[2018-07-19 Thu 10:06] =>  0:01
+   :END:      
+     Created:[2018-07-19 Thu]
+** NEXT Read / Process Daily Mail 9:00, 13:00, 16:30 
+  :LOGBOOK:  
+  CLOCK: [2018-07-20 Fri 12:46]--[2018-07-20 Fri 12:58] =>  0:12
+  CLOCK: [2018-07-20 Fri 08:34]--[2018-07-20 Fri 08:35] =>  0:01
+  CLOCK: [2018-07-20 Fri 08:27]--[2018-07-20 Fri 08:34] =>  0:07
+  CLOCK: [2018-07-19 Thu 10:06]--[2018-07-19 Thu 12:14] =>  2:08
+  CLOCK: [2018-07-19 Thu 10:00]--[2018-07-19 Thu 10:05] =>  0:05
+  CLOCK: [2018-07-19 Thu 09:54]--[2018-07-19 Thu 10:00] =>  0:06
+  :END:      
+[2018-07-19 Thu 09:53]
+
+SCHEDULED: <2018-07-19 Thu .+1d/3d>
+:PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: NEXT
+:END:
+** TODO with CMT Meeting for HSE Product Center EN/LE                           :MEETING:
+   SCHEDULED: <2018-07-23 Mon 11:00 +1w>
+  :LOGBOOK:  
+  CLOCK: [2018-07-19 Thu 12:35]--[2018-07-19 Thu 12:36] =>  0:01
+  :END:      
+[2018-07-19 Thu 12:35]
+** NEXT Read Cost Summary for 48V SW tools 2018-2019 from Yi Qiang
+   :LOGBOOK:  
+   CLOCK: [2018-07-20 Fri 12:25]--[2018-07-20 Fri 12:46] =>  0:21
+   CLOCK: [2018-07-20 Fri 12:23]--[2018-07-20 Fri 12:25] =>  0:02
+   CLOCK: [2018-07-20 Fri 10:52]--[2018-07-20 Fri 12:22] =>  1:30
+   CLOCK: [2018-07-20 Fri 10:44]--[2018-07-20 Fri 10:52] =>  0:08
+   CLOCK: [2018-07-20 Fri 10:31]--[2018-07-20 Fri 10:44] =>  0:13
+   :END:      
+     Created:[2018-07-19 Thu]
+** DONE Prepare Kickoff Meeting for Kaiwoo BE11
+   CLOSED: [2018-07-20 Fri 15:50]
+   :LOGBOOK:  
+   :END:      
+     Created:[2018-07-19 Thu]
+** TODO Possiblity of External ENG Services                                     :@office:Dennis:
+  - Key algorithms like SOC, SOH, and cell balancing management
+  - low cost alternatives (e.g. isolation monitoring)
+  - Dennis will invite a meeting to discuss 
+     Created:[2018-07-20 Fri]
+** DONE Reserve Time to dicuss with Deng May.
+   CLOSED: [2018-07-20 Fri 15:50]
+   :LOGBOOK:  
+   :END:      
+     Created:[2018-07-20 Fri]
+** TODO Get familiar to Hella Organization
+   Sharepoint Hella, Mannual
+   :LOGBOOK:  
+   :END:      
+     Created:[2018-07-20 Fri]
+** DONE with Deng May onboard talking                                           :MEETING:
+  SCHEDULED: <2018-07-20 Fri 14:00 - 14:30>
+  :LOGBOOK:  
+  CLOCK: [2018-07-20 Fri 15:17]--[2018-07-20 Fri 15:30] =>  0:13
+  CLOCK: [2018-07-20 Fri 14:52]--[2018-07-20 Fri 15:17] =>  0:25
+  CLOCK: [2018-07-20 Fri 12:22]--[2018-07-20 Fri 12:23] =>  0:01
+  :END:      
+[2018-07-20 Fri 00:00]
+** DONE with DCDC 48V ENG9 Testing resource/responsibility                      :MEETING:
+  SCHEDULED: <2018-07-20 Fri 16:30>
+  :LOGBOOK:  
+  :END:      
+[2018-07-20 Fri 00:00]
+** TODO Prepare a self-introduction on CMT meeting
+   DEADLINE: <2018-07-23 Mon 10:00>
+   :LOGBOOK:  
+   CLOCK: [2018-07-20 Fri 15:38]--[2018-07-20 Fri 15:40] =>  0:02
+   :END:      
+     Created:[2018-07-23 Mon]
+** TODO with Understanding BEA2 timing and its implications on China BMS        :MEETING:
+   SCHEDULED: <2018-07-23 Mon 19:00>
+  :LOGBOOK:  
+  CLOCK: [2018-07-20 Fri 17:34]--[2018-07-20 Fri 17:35] =>  0:01
+  :END:      
+[2018-07-20 Fri 17:34]
+* TODO BMS@Hella                                                                :@office:PROJECT:
+** DONE FUSE review
+   CLOSED: [2018-07-18 Wed 14:33] SCHEDULED: <2018-07-18 Wed 14:00 - 15:00>
+   :LOGBOOK:  
+   :END:      
+     Created:[2018-07-18 Wed]
+** DONE Operation States Review
+   CLOSED: [2018-07-19 Thu 12:12] SCHEDULED: <2018-07-18 Wed 15:30 - 17:00>
+   :LOGBOOK:  
+   CLOCK: [2018-07-18 Wed 13:54]--[2018-07-18 Wed 13:56] =>  0:02
+   :END:      
+     Created:[2018-07-18 Wed]
+** TODO Get familiar to all the team members, pictures and basic informaiton
+  :LOGBOOK:  
+  :END:      
+    Created:[2018-07-19 Thu]
+[[file:~/WorkSpace/GTD/projects.org::*Hella@Organization][Hella@Organization]]
+** DONE Apply for the administrator access right of computer
+   CLOSED: [2018-07-20 Fri 15:50]
+   :LOGBOOK:  
+   :END:      
+     Created:[2018-07-19 Thu]
+** DONE Get BMS IMS product information, get a brief picture of product and project
+   CLOSED: [2018-07-19 Thu 12:10]
+   :LOGBOOK:  
+   :END:      
+     Created:[2018-07-19 Thu]
+** DONE with Matlab/Simulink techincal exchange                                 :MEETING:
+  SCHEDULED: <2018-07-19 Thu 14:00 - 16:00>
+  :LOGBOOK:  
+  CLOCK: [2018-07-19 Thu 09:18]--[2018-07-19 Thu 09:20] =>  0:02
+  :END:      
+[2018-07-19 Thu 09:18]
+** DONE with BMS internal alignment                                             :MEETING:
+  SCHEDULED: <2018-07-19 Thu 14:00>
+  :LOGBOOK:  
+  CLOCK: [2018-07-19 Thu 09:22]--[2018-07-19 Thu 09:23] =>  0:01
+  :END:      
+[2018-07-19 Thu 09:22]
+** WAITING IBS Zhulei BAIC Trip                                                 :CANCELLED:WAITING:
+   - State "WAITING"    from "TODO"       [2018-07-19 Thu 09:51] \\
+     Assigned by Mr. Xie
+   :LOGBOOK:  
+   :END:      
+     Created:[2018-07-19 Thu]
+** NEXT Understand Hella Software Quality Rules
+   :LOGBOOK:  
+   :END:      
+     Created:[2018-07-19 Thu]
+** DONE Prepare Reivew of BMS Project Order and Risk Managment
+   CLOSED: [2018-07-19 Thu 17:05]
+   :LOGBOOK:  
+   CLOCK: [2018-07-19 Thu 13:08]--[2018-07-19 Thu 13:13] =>  0:05
+   CLOCK: [2018-07-19 Thu 12:36]--[2018-07-19 Thu 13:08] =>  0:32
+   CLOCK: [2018-07-19 Thu 12:19]--[2018-07-19 Thu 12:35] =>  0:16
+   :END:      
+     Created:[2018-07-19 Thu]
+** NEXT Learning BMS Product Features
+   :LOGBOOK:  
+   CLOCK: [2018-07-19 Thu 13:13]--[2018-07-19 Thu 17:01] =>  3:48
+   :END:      
+     Created:[2018-07-19 Thu]
+** NEXT with SYS release status BMS OR other critical BMS topics                :MEETING:
+   SCHEDULED: <2018-07-20 Fri 09:00 +2d>
+  :LOGBOOK:  
+  CLOCK: [2018-07-19 Thu 17:15]--[2018-07-19 Thu 17:16] =>  0:01
+  :END:      
+[2018-07-19 Thu 17:15]
+** DONE with CCB/RCB Role definition BMS                                        :MEETING:
+  SCHEDULED: <2018-07-20 Fri 09:30>
+  :LOGBOOK:  
+  CLOCK: [2018-07-19 Thu 17:18]--[2018-07-19 Thu 17:19] =>  0:01
+  :END:      
+[2018-07-20 Fri 00:00]
+** DONE with Quotation Kick-off BMS Kaiwo BE11                                  :MEETING:
+   CLOSED: [2018-07-20 Fri 17:35] SCHEDULED: <2018-07-20 Fri 13:00>
+  :LOGBOOK:  
+  CLOCK: [2018-07-20 Fri 12:58]--[2018-07-20 Fri 14:52] =>  1:54
+  CLOCK: [2018-07-19 Thu 17:20]--[2018-07-19 Thu 17:21] =>  0:01
+  :END:      
+[2018-07-20 Fri 00:00]
+** CANCELLED with Review Project Order and Risk Management                      :MEETING:CANCELLED:
+  SCHEDULED: <2018-07-20 Fri 15:00>
+  - State "CANCELLED"  from "MEETING"    [2018-07-20 Fri 15:17] \\
+    Canceled by host
+  :LOGBOOK:  
+  CLOCK: [2018-07-19 Thu 17:21]--[2018-07-19 Thu 17:22] =>  0:01
+  :END:      
+[2018-07-20 Fri 00:00]
+** DONE Prepare Meeting with Sys Release Status, Contact Mr. Ye Hengjie
+   CLOSED: [2018-07-20 Fri 10:26]
+   - Note taken on [2018-07-20 Fri 10:25] \\
+     twice days, alignmeng of system issues.
+   :LOGBOOK:  
+   CLOCK: [2018-07-20 Fri 08:35]--[2018-07-20 Fri 08:48] =>  0:13
+   :END:      
+     Created:[2018-07-20 Fri]
+** TODO Find AMK2 Project Organization Chart
+   :LOGBOOK:  
+   :END:      
+     Created:[2018-07-20 Fri]
+** TODO Read CR Process of BMS Project, form Chen Mike and Sherry
+   :LOGBOOK:  
+   :END:      
+     Created:[2018-07-20 Fri]
+** TODO with Acquisition Sample Issues                                          :MEETING:
+   SCHEDULED: <2018-07-23 Mon 14:30>
+  :LOGBOOK:  
+  :END:      
+[2018-07-23 Mon 00:00]
+** MEETING with BMS Workshop(Deng May)                                          :MEETING:
+  SCHEDULED: <2018-07-24 Tue 09:00>
+  :LOGBOOK:  
+  CLOCK: [2018-07-20 Fri 17:35]
+  CLOCK: [2018-07-20 Fri 15:48]--[2018-07-20 Fri 17:34] =>  1:46
+  CLOCK: [2018-07-20 Fri 15:45]--[2018-07-20 Fri 15:46] =>  0:01
+  CLOCK: [2018-07-20 Fri 15:42]--[2018-07-20 Fri 15:44] =>  0:02
+  :END:      
+[2018-07-23 Mon 00:00]
+** MEETING with Status Reivew with Mr. Wolfgang China BMS                       :MEETING:
+  SCHEDULED: <2018-07-26 Thu 09:30>
+  :LOGBOOK:  
+  CLOCK: [2018-07-20 Fri 15:44]--[2018-07-20 Fri 15:45] =>  0:01
+  :END:      
+[2018-07-20 Fri 15:44]
+** MEETING with BMS Weekly Discussion With Ms. Deng May                         :MEETING:
+  SCHEDULED: <2018-07-26 Thu 12:30 +1w>
+ - project progress, project issues, reporting  
+:LOGBOOK:  
+  CLOCK: [2018-07-20 Fri 15:46]--[2018-07-20 Fri 15:48] =>  0:02
+  :END:      
+[2018-07-20 Fri 15:46]
+* TODO IBS@Hella

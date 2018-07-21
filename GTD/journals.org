@@ -33,3 +33,15 @@
    - 学习从大的视图去掌握，根据 先粗再细的渐进式学习方法，从整本书、一篇课文的多个维度掌握知识。
    - 改变记忆单词的方法， 改为 快 ＋ 重复  的方法
    - 语法的学习和记忆，应该更多的形成系统的观点来去理解英语的规则，建议基于小学英语语法手册作为记忆的基础，随着后期知识点的增加，一点点的添加到建立的语法树。
+*** [2018-07-20 Fri 00:00] - Alignment With Dr. Deng May
+    :LOGBOOK:  
+    CLOCK: [2018-07-20 Fri 15:30]--[2018-07-20 Fri 15:31] =>  0:01
+    :END:      
+ - Reponsibilities:
+   - Management of BMS SW/SYS team
+   - BMS Platform of China
+   - ENG9 Test resource / responsibility alignment 
+ - Ideas
+   - 2-3 years to development BMS by local team
+   - outsourcing BMS development
+   - AMK1 Project for Kaiwo BE11 quotation
