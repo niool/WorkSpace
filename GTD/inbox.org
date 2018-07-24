@@ -7,3 +7,18 @@
   :LOGBOOK:  
   :END:      
     Created:[2018-07-12 Thu]
+* TODO Man Hour Booking of Hella, Get information from Mr. Xie
+  :LOGBOOK:  
+  :END:      
+    Created:[2018-07-22 Sun]
+* MEETING with Hunter Visit for SW/SYS                                          :MEETING:
+  SCHEDULED: <2018-07-23 Mon 14:00>
+  :LOGBOOK:  
+  CLOCK: [2018-07-23 Mon 12:34]--[2018-07-23 Mon 12:35] =>  0:01
+  :END:      
+[2018-07-23 Mon 12:34]
+* MEETING with Review                                                           :MEETING:
+  :LOGBOOK:  
+  CLOCK: [2018-07-23 Mon 13:55]--[2018-07-23 Mon 15:04] =>  1:09
+  :END:      
+[2018-07-23 Mon 13:55]

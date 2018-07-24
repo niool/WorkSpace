@@ -335,10 +335,7 @@ SCHEDULED: <2018-07-19 Thu .+1d/3d>
 ** MEETING with BMS Workshop(Deng May)                                          :MEETING:
   SCHEDULED: <2018-07-24 Tue 09:00>
   :LOGBOOK:  
-  CLOCK: [2018-07-20 Fri 17:35]
   CLOCK: [2018-07-20 Fri 15:48]--[2018-07-20 Fri 17:34] =>  1:46
-  CLOCK: [2018-07-20 Fri 15:45]--[2018-07-20 Fri 15:46] =>  0:01
-  CLOCK: [2018-07-20 Fri 15:42]--[2018-07-20 Fri 15:44] =>  0:02
   :END:      
 [2018-07-23 Mon 00:00]
 ** MEETING with Status Reivew with Mr. Wolfgang China BMS                       :MEETING:
@@ -354,4 +351,10 @@ SCHEDULED: <2018-07-19 Thu .+1d/3d>
   CLOCK: [2018-07-20 Fri 15:46]--[2018-07-20 Fri 15:48] =>  0:02
   :END:      
 [2018-07-20 Fri 15:46]
+** NEXT BCM Project Information
+   :LOGBOOK:  
+   CLOCK: [2018-07-23 Mon 15:04]
+   CLOCK: [2018-07-23 Mon 12:49]--[2018-07-23 Mon 13:55] =>  1:06
+   :END:      
+     Created:[2018-07-23 Mon]
 * TODO IBS@Hella

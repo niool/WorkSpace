@@ -14,13 +14,20 @@
 | Abbrev       | Description                 |
 |--------------+-----------------------------|
 | BMU          | Battery Management Unit     |
-| CSE          | Cell SUpervising Entity     |
+| CSE          | Cell Supervising Entity     |
 | CSM          | Current Sensor Module       |
 | onboard IMoC | Isolation Monitoring Device |
 | HVCS         |                             |
 | HVIL         | High Voltage Inter-lock     |
-|              |                             |
 |--------------+-----------------------------|
+| SOC          | State of Charge, power left |
+| SOP          | State of Power              |
+| SOH          | State of Health             |
+|              |                             |
+
+** SOC
+SOC is the basis of BMS, key indexes are: procision and robustness
+
 
 
 * BMS Team Member
