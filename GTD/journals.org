@@ -1,3 +1,4 @@
+* 2020 Year
 * 2018 Year
 ** 06 Month
 *** [2018-06-17 Sun 22:35] - IFTTT If This Then That
@@ -45,3 +46,4 @@
    - 2-3 years to development BMS by local team
    - outsourcing BMS development
    - AMK1 Project for Kaiwo BE11 quotation
+** 01 Month
